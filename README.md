@@ -2,7 +2,7 @@
 
 This is the repository for BIOSTAT 823 final project.
 
-### Reproduction intructions
+### Reproduction instructions
 In order to reproduce this project, an environment with GPU is recommended. 
 
 Data used for the project is stored under [**00_Data**](https://github.com/tianyunh/BIOSTAT823-Project/tree/main/00_Data).
